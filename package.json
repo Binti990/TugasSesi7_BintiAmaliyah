@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Binti990/TugasSesi7_BintiAmaliyah#readme",
   "devDependencies": {
     "mocha": "^11.7.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
   }
 }
