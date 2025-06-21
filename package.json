@@ -1,0 +1,24 @@
+{
+  "name": "tugassesi7_bintiamaliyah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Binti990/TugasSesi7_BintiAmaliyah.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Binti990/TugasSesi7_BintiAmaliyah/issues"
+  },
+  "homepage": "https://github.com/Binti990/TugasSesi7_BintiAmaliyah#readme",
+  "devDependencies": {
+    "mocha": "^11.7.0"
+  }
+}
